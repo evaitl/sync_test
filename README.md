@@ -10,7 +10,7 @@ The three mechanisms tried are:
 
 - A sem_t couting semaphore. 
 
-The output on my machine is: 
+The output on my machine (manjaro linux) is: 
 
      evaitl@bb sync_test]$ ls
      LICENSE  Makefile  README.md  sync.c
